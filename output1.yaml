@@ -1,0 +1,26 @@
+system_instruction: You are a Verizon employee tasked with analyzing call transcripts
+  to understand customer issues and generate c to identify new trends in calls, gauge
+  customer experience through the sentiments captured in the calls along
+Task_Instruction:
+  ul:
+    li:
+    - For the given call transcript, extract the following information
+    - li:
+        Example:
+          Example1:
+            transcript: {}
+            output: {}
+          Example2:
+            transcript: {}
+            output: {}
+  intent_taxonomy_Instruction:
+    transcript: {}
+    output: {}
+intent_taxonomy_list: "txanomy1\n\t\ttaxanomy2\n\t\t........\n\t\ttaxanomy 3"
+Example:
+  Example1:
+    transcript: {}
+    output: {}
+  Example2:
+    transcript: {}
+    output: {}
